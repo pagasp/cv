@@ -1,0 +1,152 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  background-color: #b2cacd;
+}
+
+address {
+  float: right;
+  margin-top: 30px;
+  font-size: 20px;
+  padding: 30px;
+}
+
+section {
+  color: #11999e;
+  width: 45%;
+  padding: 30px;
+}
+
+.con1 {
+}
+
+.top {
+  background-color: #ced7db;
+  padding: 20px;
+}
+
+h1 {
+  color: #49797b;
+  margin: 0;
+}
+
+h3 {
+  color: #11999e;
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+}
+
+table {
+  padding: 30px;
+  text-align: left;
+
+}
+
+thead {
+  padding: 2px;
+}
+
+th {
+  padding: 30px;
+}
+
+tr {
+  padding: 30px;
+}
+
+td {
+  padding: 10px;
+  width: 500px;
+}
+
+caption{
+  font-size: 2rem;
+  color: #11999e;
+}
+
+p {
+  line-height: 2;
+  font-size: 1.2rem;
+  color: #505858;
+}
+
+img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.work {
+  float: left;
+  width: 10rem;
+  height: 10rem;
+  margin-top: 100px;
+}
+
+.education {
+  float: left;
+  width: 10rem;
+  height: 10rem;
+  margin-top: 100px;
+}
+
+.skills {
+  padding: 30px;
+  font-size: 1.2rem;
+}
+
+.contact{
+  padding: 30px;
+}
+
+.btn {
+  background: #9cdded;
+  background-image: -webkit-linear-gradient(top, #9cdded, #3b7899);
+  background-image: -moz-linear-gradient(top, #9cdded, #3b7899);
+  background-image: -ms-linear-gradient(top, #9cdded, #3b7899);
+  background-image: -o-linear-gradient(top, #9cdded, #3b7899);
+  background-image: linear-gradient(to bottom, #9cdded, #3b7899);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #8eeaed;
+  background-image: -webkit-linear-gradient(top, #8eeaed, #27a1a1);
+  background-image: -moz-linear-gradient(top, #8eeaed, #27a1a1);
+  background-image: -ms-linear-gradient(top, #8eeaed, #27a1a1);
+  background-image: -o-linear-gradient(top, #8eeaed, #27a1a1);
+  background-image: linear-gradient(to bottom, #8eeaed, #27a1a1);
+  text-decoration: none;
+}
+
+.skill-row {
+  padding: 30px;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  margin: 100px auto 100px auto;
+  background-color: #ced7db;
+  position: relative;
+}
